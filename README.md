@@ -1,5 +1,5 @@
 # fluttermycard
 
-A new Flutter application.
+Flutterの練習
 
 
